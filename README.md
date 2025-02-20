@@ -7,9 +7,9 @@ Website Penitipan Barang
 Aplikasi ini digunakan untuk mencatat penitipan barang, karena masih banyak yang menitipkan barang dicatat dengan cara manual
 
 ## Flowchart
-Berikut adalah flowchart yang menggambarkan alur kerja aplikasi
+Berikut adalah flowchart yang menggambarkan alur kerja aplikasi:
 
-[Flowchart] (https://github.com/kampusriset/22g_flask_penitipan_barang/blob/main/screenshoots/flowchart.png)
+![Flowchart](https://github.com/kampusriset/22g_flask_penitipan_barang/blob/main/screenshoots/flowchart.png)
 
 ## Perkenalan Tim
 - **Arya Adi Restu Putra Pratama** - [Change Password, Register, Login Paksa, Pagination]
