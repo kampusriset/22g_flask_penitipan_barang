@@ -9,7 +9,7 @@ Aplikasi ini digunakan untuk mencatat penitipan barang, karena masih banyak yang
 ## Flowchart
 Berikut adalah flowchart yang menggambarkan alur kerja aplikasi
 
-[Flowchart] ()
+[Flowchart] (https://github.com/kampusriset/22g_flask_penitipan_barang/blob/main/screenshoots/flowchart.png)
 
 ## Perkenalan Tim
 - **Arya Adi Restu Putra Pratama** - [Change Password, Register, Login Paksa, Pagination]
@@ -18,6 +18,6 @@ Berikut adalah flowchart yang menggambarkan alur kerja aplikasi
 
 ## Link Video Dokumentasi
 Anda dapat menonton video dokumentasi aplikasi melalui tautan berikut :
-[Klik disini]
+[Klik disini https://youtu.be/AQf7EazS7-c?si=8nxLAunYVnODT1qU] 
 
 
